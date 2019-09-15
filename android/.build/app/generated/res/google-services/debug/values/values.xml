@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">47876302140-37jot9mu4rci8ddvpdmdjin3m3d3l7p5.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://yody-4c767.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">47876302140</string>
+    <string name="google_api_key" translatable="false">AIzaSyAtwN73ddd8j4tEuQLGDHzX9kNz5hjKKv0</string>
+    <string name="google_app_id" translatable="false">1:47876302140:android:58f9d23361878ad1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAtwN73ddd8j4tEuQLGDHzX9kNz5hjKKv0</string>
+    <string name="google_storage_bucket" translatable="false">yody-4c767.appspot.com</string>
+    <string name="project_id" translatable="false">yody-4c767</string>
+</resources>

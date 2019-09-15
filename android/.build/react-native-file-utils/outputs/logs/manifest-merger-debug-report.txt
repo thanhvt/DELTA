@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml:1:1-3:12
+	package
+		ADDED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml:1:70-103
+		INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+		INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+		ADDED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml:1:1-3:12
+		INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+		ADDED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml:1:1-3:12
+		INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml:2:5-81
+	android:name
+		ADDED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml:2:22-78
+uses-sdk
+INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+		ADDED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+		INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+		ADDED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml
+		INJECTED from C:\CODE\VNITTECH\DELTA\Delta20190916\node_modules\react-native-file-utils\android\src\main\AndroidManifest.xml

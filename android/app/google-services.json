@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "47876302140",
+    "firebase_url": "https://yody-4c767.firebaseio.com",
+    "project_id": "yody-4c767",
+    "storage_bucket": "yody-4c767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47876302140:android:58f9d23361878ad1",
+        "android_client_info": {
+          "package_name": "com.yody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47876302140-37jot9mu4rci8ddvpdmdjin3m3d3l7p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtwN73ddd8j4tEuQLGDHzX9kNz5hjKKv0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

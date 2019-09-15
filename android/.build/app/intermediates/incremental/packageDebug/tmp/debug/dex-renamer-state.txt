@@ -1,0 +1,4 @@
+#Mon Sep 16 01:17:08 ICT 2019
+base.0=C\:\\CODE\\VNITTECH\\DELTA\\Delta20190916\\android\\.build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
